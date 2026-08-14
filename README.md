@@ -51,7 +51,7 @@ Through this project, I practiced:
 
 You can view the live version of this project here:
 
-**[View Udemy Landing Page](YOUR-LIVE-DEMO-LINK)**
+**[View Udemy Landing Page](https://mangayarkarasipalraj.github.io/udemy-clone/)**
 
 ## 👨‍💻 Author
 
